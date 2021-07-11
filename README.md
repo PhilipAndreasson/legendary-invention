@@ -12,7 +12,7 @@ You will also see any lint errors in the console.
 
 LOCAL DB/BE ------------------------------------------
 
-## `npx --json-server --watch data/db.json --port 8000`
+## `npx json-server --watch data/db.json --port 8000`
 
 You dont have to use port 8000, you just need to use another port then 3000 which is used by react.
 
